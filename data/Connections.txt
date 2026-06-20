@@ -1,0 +1,46 @@
+Dakshineswar,Noapara,2.4
+Noapara,Dum Dum,2.8
+Dum Dum,Belgachia,1.9
+Belgachia,Shyambazar,1.4
+Shyambazar,Sovabazar Sutanuti,1.1
+Sovabazar Sutanuti,Girish Park,1.2
+Girish Park,Mahatma Gandhi Road,0.9
+Mahatma Gandhi Road,Central,1.0
+Central,Chandni Chowk,1.0
+Chandni Chowk,Esplanade,0.8
+Esplanade,Park Street,1.1
+Park Street,Maidan,1.0
+Maidan,Rabindra Sadan,0.9
+Rabindra Sadan,Netaji Bhavan,1.1
+Netaji Bhavan,Jatin Das Park,1.0
+Jatin Das Park,Kalighat,0.9
+Kalighat,Rabindra Sarobar,1.2
+Rabindra Sarobar,Mahanayak Uttam Kumar,1.0
+Mahanayak Uttam Kumar,Netaji,1.1
+Netaji,Masterda Surya Sen,1.0
+Masterda Surya Sen,Gitanjali,1.2
+Gitanjali,Kavi Nazrul,1.0
+Kavi Nazrul,Shahid Khudiram,1.1
+Shahid Khudiram,Kavi Subhash,1.0
+
+Howrah Maidan,Howrah,1.0
+Howrah,Mahakaran,1.5
+Mahakaran,Esplanade,1.2
+Esplanade,Sealdah,2.5
+Sealdah,Phoolbagan,1.1
+Phoolbagan,Salt Lake Stadium,1.0
+Salt Lake Stadium,Bengal Chemical,1.2
+Bengal Chemical,City Centre,1.0
+City Centre,Central Park,0.9
+Central Park,Karunamoyee,0.9
+Karunamoyee,Salt Lake Sector V,1.0
+
+Kavi Subhash,Hemanta Mukhopadhyay,1.0
+Hemanta Mukhopadhyay,Satyajit Ray,1.2
+Satyajit Ray,Mukundapur,1.0
+Mukundapur,Ruby,1.1
+Ruby,VIP Bazaar,1.2
+VIP Bazaar,Beliaghata,1.3
+Beliaghata,Science City,1.0
+Science City,Metropolitan,1.0
+Metropolitan,Sealdah,1.3

@@ -1,0 +1,56 @@
+ 5 colcored mtreo are present 
+ station Id station name colored line 
+
+
+
+
+1,Dakshineswar,Blue
+2,Noapara,Blue
+3,Dum Dum,Blue
+4,Belgachia,Blue
+5,Shyambazar,Blue
+6,Sovabazar Sutanuti,Blue
+7,Girish Park,Blue
+8,Mahatma Gandhi Road,Blue
+9,Central,Blue
+10,Chandni Chowk,Blue
+11,Esplanade,Blue
+12,Park Street,Blue
+13,Maidan,Blue
+14,Rabindra Sadan,Blue
+15,Netaji Bhavan,Blue
+16,Jatin Das Park,Blue
+17,Kalighat,Blue
+18,Rabindra Sarobar,Blue
+19,Mahanayak Uttam Kumar,Blue
+20,Netaji,Blue
+21,Masterda Surya Sen,Blue
+22,Gitanjali,Blue
+23,Kavi Nazrul,Blue
+24,Shahid Khudiram,Blue
+25,Kavi Subhash,Blue
+
+26,Howrah Maidan,Green
+27,Howrah,Green
+28,Mahakaran,Green
+29,Esplanade,Green
+30,Sealdah,Green
+31,Phoolbagan,Green
+32,Salt Lake Stadium,Green
+33,Bengal Chemical,Green
+34,City Centre,Green
+35,Central Park,Green
+36,Karunamoyee,Green
+37,Salt Lake Sector V,Green
+
+38,Kavi Subhash,Orange
+39,Satyajit Ray,Orange
+40,yotirindra Nath Nandi (Mukundapur)
+41, Kavi Sukanta (Abhishikta)
+42,Ruby,Orange
+43,VIP Bazaar,Orange
+44,Beliaghata,Orange
+45,Science City,Orange
+46,Metropolitan,Orange
+47,Sealdah,Orange
+

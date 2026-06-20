@@ -1,0 +1,6 @@
+Blue,Dakshineswar,Kavi Subhash
+Green,Howrah Maidan,Salt Lake Sector V
+Orange,Kavi Subhash,Airport
+Purple,Joka,Eden Gardens
+Yellow,Noapara,Barasat
+Pink,Baranagar,Barrackpore
